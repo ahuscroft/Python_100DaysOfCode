@@ -28,11 +28,8 @@ mountain = input("You've come to a mountain do you want to climb over it or go a
 
 mountain_lwr = mountain.lower()
 
-#Create if statement for "mountain" option
 if mountain_lwr == "around":
-#Create nested if statement for lake option
   lake = input("You come to a lake.  There is an island in the middle of the lake.  Type 'wait' to wait for the boat. Type 'swim' to awim to the island. \n").lower()
-#Create nested if statement for door option
   if lake == "wait":
     door = input("Way to go! you've made it to the island unharmed. There is a house with 3 doors. One red, one yellow and one blue.  Which colour do you choose? \n").lower()
     if door == "red":
