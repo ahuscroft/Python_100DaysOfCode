@@ -9,4 +9,7 @@ Day 3
 Create a game that asks the user 3 questions to find the treasure! Utilize conditional statements.
 
 Day 4
-Write a program to play this classic game against the computer.  Utilze 'if' statements, lists, and the random module to create the game
+Write a program to play this classic game against the computer.  Utilze 'if' statements, lists, and the random module to create the game.
+
+Day 5
+Write a program that will generate a random password depending on what the user inputs for the number of letters, numbers, and symbols they would like in the password.
