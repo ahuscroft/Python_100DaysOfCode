@@ -20,3 +20,6 @@ Write a program that will generate a random password depending on what the user 
 Day 6
 Use a functions and a 'while loop' to help Reeborg find his way out of the maze. 
 https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+
+Day 7
+Create the game hangman using the random module, if statements, for loops and while loops.
